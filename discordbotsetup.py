@@ -488,11 +488,11 @@ async def on_message(message):
         
 
 
+client.run(os.getenv('TOKEN'))
 
 
-client.run("NDQ0ODgyNTY2NTI5NDE3MjE2.DdigbA.Gvu4bnvStraHsiF_gl0WMz2Wm5s")
 
-#client.run("NDUwOTEwODgxMzA4NDc1Mzkz.De71fQ.uV-qbUOETB16TkM_JAYahMe9_Q0")
+
 
 
 
